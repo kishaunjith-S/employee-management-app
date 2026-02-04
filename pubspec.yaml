@@ -1,0 +1,15 @@
+name: employee_app
+description: A minimal Flutter app for managing employee data with PostgreSQL.
+version: 1.0.0
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2 # For making HTTP requests
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
