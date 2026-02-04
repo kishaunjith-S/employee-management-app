@@ -28,15 +28,16 @@ The app helps manage employee records such as personal details, roles, and depar
 
 ## 📂 Project Structure
 
+<pre>
 employee_app/
-├── lib/ # Flutter UI
-├── backend/ # Node.js backend
-├── android/ # Android platform files
-├── ios/ # iOS platform files
-├── web/ # Web support
-├── windows/ # Windows desktop support
+├── lib/                # Flutter UI
+├── backend/            # Node.js backend
+├── android/            # Android platform files
+├── ios/                # iOS platform files
+├── web/                # Web support
+├── windows/            # Windows desktop support
 └── pubspec.yaml
-
+</pre>
 ---
 
 ## ▶️ How to Run
